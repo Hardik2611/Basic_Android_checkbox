@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HardikGoyal_checkbox</string>'
+    <string name="res">Result</string>
+    <string name="made">Made by Hardik Goyal</string>
+    <string name="ques">Select appropriate options.</string>
+    <string name="opt1">HTML</string>
+    <string name="opt2">CSS</string>
+    <string name="opt3">Javascript</string>
+    <string name="opt4">Java</string>
+    <string name="opt5">Swift</string>
+    <string name="opt6">PHP</string>
+    <string name="opt7">MySQL</string>
+    <string name="opt8">Nodejs</string>
+    <string name="all">Select all</string>
+    <string name="sub">Submit</string>
+</resources>
